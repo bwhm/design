@@ -1,10 +1,13 @@
 <p align="center"><img src="design-repo.svg"></p>
 
-
 <div align="center">
-  <h2>
-    Other Assets in Repos Below:
-  </h2>
+  <h4>Eventually, this all goes on-chain, read our :scroll: <a href="https://github.com/Joystream/whitepaper/blob/master/paper.pdf">whitepaper</a> :scroll:, we are on-chain governance maximalists!<h4>
+</div>
+<div align="center">
+  <h5>The place to learn about the Joystream branding and design system.</h5>
+</div>
+<div align="center">
+  For assets related to our landing page, blog, or application, follow the link(s) below.</a>
 </div>
 
 <div align="center">
@@ -14,7 +17,7 @@
     </a>
     <span> | </span>
     <a href="https://github.com/Joystream/communications">
-      Blog
+      Communication
     </a>
     <span> | </span>
     <a href="https://github.com/Joystream/apps">
